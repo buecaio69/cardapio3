@@ -1,8 +1,7 @@
 {
   "name": "cardapio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "homepage": "https://buecaio69.github.io/cardapio3/",
   "scripts": {
     "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
   },
