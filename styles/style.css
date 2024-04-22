@@ -204,6 +204,8 @@ a {
     color: #ffc506;
 }
 
-@media (max-width: 1200) {
-    
+@media (max-width: 1200px) {
+    .main {
+        display: block;
+    }
 }
